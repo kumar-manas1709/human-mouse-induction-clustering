@@ -38,10 +38,9 @@ how to reproduce the pipeline.
   results/                        Final clustering outputs (plot + results
                                    CSV), one folder per dataset
 
-4_first_2_hours_analysis/      <=120-minute subset analysis -- structured
+4_first_2_hours_analysis/      <=120-minute subset analysis - structured
                                 identically to 3_full_time_analysis/, plus
-                                its own README with sample-size caveats and
-                                current status (in progress -- see below)
+                                its own README with sample-size caveats
 
 5_docs/                        The methods report (includes a full file
                                 manifest as an appendix)
